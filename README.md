@@ -1,3 +1,2 @@
-# web-platform-uuzfmf
+# Excercise: Building a Product Card
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-uuzfmf)
